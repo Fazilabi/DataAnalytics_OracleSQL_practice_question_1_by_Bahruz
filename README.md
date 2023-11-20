@@ -1,0 +1,1 @@
+# DataAnalytics_OracleSQL_practice_question_1_by_Bahruz
